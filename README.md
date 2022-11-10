@@ -3,12 +3,12 @@
 In this assignment, I fit the Myopia data to a model and used clustering algorithms to place data into groups. I then created a visualization that shares my findings. 
 
 
-###Repo Breakdown 
+### Repo Breakdown
 
 This repository includes the Myopia data (CSV file), a jupyter notebook titled "unsupervised-machine-learning-challenge" which holds the activity, and a PDF of the grading rubric of this assignment. 
 
 
-###Activity Breakdown 
+### Activity Breakdown
 
 This activity is broken down into four parts: 
 
